@@ -2,7 +2,7 @@
 import logging
 
 # ログの設定
-logging.basicConfig(filename="sampleLog.log", level=logging.WARN)
+logging.basicConfig(filename="sample13Log.log", level=logging.WARN)
 logging.fatal("fatal")
 logging.error("error")
 logging.warning("warn")
