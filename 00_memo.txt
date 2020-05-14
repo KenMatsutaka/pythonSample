@@ -1,0 +1,19 @@
+■外部ライブラリ
+〇pyperclip・・・クリップボードを操作する為のライブラリ
+　pip install pyperclip
+
+〇send2trash・・・ファイルをゴミ箱へ移動するライブラリ
+　pip install send2trash
+
+〇pytz・・・タイムゾーンを扱う為のライブラリ
+　pip install pytz
+
+〇matplotlib・・・データをグラフ化する為のライブラリ
+　pip install matplotlib
+
+〇numpy・・・数値演算(科学技術計算など)の為のライブラリ
+　pip install numpy
+
+〇
+
+
