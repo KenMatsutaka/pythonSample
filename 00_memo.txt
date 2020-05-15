@@ -14,6 +14,37 @@
 〇numpy・・・数値演算(科学技術計算など)の為のライブラリ
 　pip install numpy
 
-〇
+〇pandas・・・データ分析をする為のライブラリ(CSVを扱うのに有利な場合がある)
+　pip install pandas
 
+〇opnepyxl・・・Excelを扱う為のライブラリ
+　pip install openpyxl
+
+〇furl・・・URLを扱う為のライブラリ(urllibより便利らしい)
+　pip install furl
+
+〇PyQuery・・・jQueryライクなAPIを提供するライブラリ
+　pip install PyQuery
+　classは予約語なのでclass_を使用する事に注意
+　pythonのスクレイピングでは「BeautifulSoup」ってのが人気らしい
+
+〇lxml・・・xmlやhtmlを扱うためのライブラリ
+　pip install lxml
+
+〇MarkupSafe・・・文字列をHTML/XML形式にエスケープする為のライブラリ
+　pip install markupsafe
+
+〇PyYAML・・・YAMLパーサー
+　pip install PyYAML
+
+〇tqdm・・・プログレスバーを表示する為のライブラリ
+　→時間が掛かるループ処理の中に組み込んで使用する
+　pip install tqdm
+
+〇pycrypto・・・暗号アルゴリズムとプロトコルを提供するライブラリ
+  →AESっていう暗号があるらしい
+　pip install pycrypto
+
+〇pycodestyle・・・PEP8のコードスタイルに準拠しているかどうかをチェックするライブラリ
+  pip install pycodestyle
 
